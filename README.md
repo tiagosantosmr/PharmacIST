@@ -1,5 +1,7 @@
 # PharmacIST
 
+<img src="dark.png" alt="PharmacIST Overview" width="500"/>
+
 PharmacIST is a mobile application developed for the Android operating system as part of the Mobile and Ubiquitous Computing master's course @ IST. It serves as a platform to help users find pharmacies and medicines in times of need, providing a comprehensive and user-friendly interface for discovering and accessing pharmacy information.
 Built using Kotlin and Jetpack Compose.
 
